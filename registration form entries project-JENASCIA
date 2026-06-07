@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h1>Details of Users</h1>
+
+    <form>
+        <fieldset>
+            <legend> Personal Information:</legend>
+            <label>First name:</label>
+
